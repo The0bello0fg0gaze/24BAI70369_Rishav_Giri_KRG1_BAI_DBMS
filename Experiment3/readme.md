@@ -78,7 +78,7 @@ end;
 
 ## 8. Output:
 The program successfully displays employee details, bonus amount, and total salary using DBMS output.
-![alt text](OUTPUT-1.png)
+![alt text](practical_output.png)
 
 
 ## 9.Result
